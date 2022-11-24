@@ -1,11 +1,11 @@
 # App Biscoito da sorte
 
-## Construído com:
+## Construído com
 - [Expo](https://expo.dev/)
 - [React Native](https://reactnative.dev/)
 
-## Visualização do projeto
+## Demonstração
 
 <div align="center">
-	<img src="./src/demo.gif/" title="Visualização do projeto final" />
+	<img src="./src/demo.gif/" title="Visualização do projeto final" height="450px" />
 </div>
